@@ -3,7 +3,7 @@ Hi my name is Felice Lee. Currently I'm a Business Administration student with C
 
 ### LAB
 
-[Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file
+[Lab 1](https://felice168.github.io/cit281-lab1/) ![github]() --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file
 
 [Lab 2](https://felice168.github.io/cit281-lab2/) --- CLI commands, Version control, and JavaScript refresher
 
