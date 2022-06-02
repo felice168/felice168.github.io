@@ -1,4 +1,5 @@
-# Welcome to CIT281
+# Welcome to CIT Minor portfolio
+Hi my name is Felice Lee. Currently I'm a Business Administration student with CIT minor at the University of Oregon. This is my CIT minor portfolio, hope you enjoy!
 
 ## LAB
 
