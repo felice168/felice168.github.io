@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to CIT281
 
 You can use the [editor on GitHub](https://github.com/felice168/felice168.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+[Lab 1](https://felice168.github.io/cit281-lab1/) Practice commands, shortcuts, software tools, and Node.js
 
-[Lab 1](https://felice168.github.io/cit281-lab1/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -14,8 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# CIT281 
-1. [Lab 1](https://felice168.github.io/cit281-lab1/) Practice commands, shortcuts, software tools, and Node.js
    Project 1
 2. Lab 2
    Project 2 
