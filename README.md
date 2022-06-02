@@ -1,7 +1,7 @@
 # Welcome to My CIT Minor Portfolio
 Hi my name is Felice Lee. Currently I'm a Business Administration student with CIT minor at the University of Oregon. This is my CIT minor portfolio, hope you enjoy!
 
-## LAB
+### LAB
 
 [Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file
 
