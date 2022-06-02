@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # CIT281 
-1. Lab 1 --- practice commands, shortcuts, software tools, and Node.js
+1. [Lab 1 --- practice commands, shortcuts, software tools, and Node.js](https://felice168.github.io/cit281-lab1/)
    Project 1
 2. Lab 2
    Project 2 
