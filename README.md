@@ -1,4 +1,4 @@
-# Welcome to CIT Minor portfolio
+# Welcome to My CIT Minor Portfolio
 Hi my name is Felice Lee. Currently I'm a Business Administration student with CIT minor at the University of Oregon. This is my CIT minor portfolio, hope you enjoy!
 
 ## LAB
@@ -9,7 +9,17 @@ Hi my name is Felice Lee. Currently I'm a Business Administration student with C
 
 [Lab 3](https://felice168.github.io/cit281-lab3/) --- ES6/ES2015 practice
 
-[Lab 4](https://felice168.github.io/cit281-lab4/) ---
+[Lab 4](https://felice168.github.io/cit281-lab4/) --- Node.js web server
+
+[Lab 5](https://felice168.github.io/cit281-lab5/) --- Postman, Node.js and fastify server application, HTTP verbs, Route
+
+[Lab 6](https://felice168.github.io/cit281-lab6/) --- GitHub, Constructor functions, Function expressions and lambda expressions, Classes
+
+[Lab 7](https://felice168.github.io/cit281-lab7/) --- GitHub organization & repo, Cloning, Error handling , Inheritance 
+
+[Lab 8](https://felice168.github.io/cit281-lab8/) --- Client and Server applications - Promises, fetch, node-fetch
+
+[Lab 9](https://felice168.github.io/cit281-lab9/) --- GitHub Learning Lab: Create a release based workflow course
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -22,20 +32,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
    Project 1
-2. Lab 2
+
    Project 2 
-3. Lab 3
+
    Project 3
-4. Lab 4
+
    Project 4
-5. Lab 5 
+
    Project 5
-6. Lab 6 
+   
    Project 6
-7. Lab 7 
-   Project 7
-8. Lab 8 
-9. Lab 9 
+
+   Project 7 
 
 **Bold** and _Italic_ and `Code` text
 
