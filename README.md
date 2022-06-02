@@ -1,9 +1,14 @@
-## Welcome to CIT281
+# Welcome to CIT281
 
-[Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup, practice terminal commands & keyboard shortcuts & software tools, and create Node.js server-side JavaScript file
+## LAB
+
+[Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file
 
 [Lab 2](https://felice168.github.io/cit281-lab2/) --- CLI commands, Version control, and JavaScript refresher
-[Lab 3]
+
+[Lab 3](https://felice168.github.io/cit281-lab3/) --- ES6/ES2015 practice
+
+[Lab 4](https://felice168.github.io/cit281-lab4/) ---
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
