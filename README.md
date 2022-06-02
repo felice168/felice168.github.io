@@ -1,6 +1,7 @@
 ## Welcome to CIT281
 
 [Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup, practice terminal commands & keyboard shortcuts & software tools, and create Node.js server-side JavaScript file
+
 [Lab 2](https://felice168.github.io/cit281-lab2/) --- CLI commands, Version control, and JavaScript refresher
 [Lab 3]
 
