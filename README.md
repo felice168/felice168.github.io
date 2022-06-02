@@ -21,8 +21,6 @@ Hi my name is Felice Lee. Currently I'm a Business Administration student with C
 
 [Lab 9](https://felice168.github.io/cit281-lab9/) --- GitHub Learning Lab: Create a release based workflow course
 
-![github picture](https://user-images.githubusercontent.com/105137247/171759265-39f9eec4-31f9-44eb-a266-b94c741c6aa6.png)
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### PROJECT
