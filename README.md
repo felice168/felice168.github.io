@@ -24,16 +24,14 @@ Hi my name is Felice Lee. Currently I'm a Business Administration student with C
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### PROJECT
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Project 1](https://felice168.github.io/cit281-p1/) --- Gain experience accessing your operating system's command line interface (CLI), working with CLI commands & Visual Studio Code (VSCode), writing and executing non-web server Node.js JavaScript code
+
+[Project 2]()
 
 ```markdown
 Syntax highlighted code block
-
-   Project 1
-
-   Project 2 
 
    Project 3
 
