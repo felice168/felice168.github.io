@@ -40,11 +40,13 @@ to create and use a .gitignore file & diff split screen
 
 [Project 7](https://felice168.github.io/cit281-p7/) --- Creating an initial version of my CIT Minor portfolio using GitHub Pages
 
+![github picture](https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png)
+
+
 ```markdown
 Syntax highlighted code block
    
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```![github picture](https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png)
-
+```
