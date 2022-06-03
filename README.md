@@ -3,7 +3,8 @@ Hi my name is Felice Lee. Currently I'm a Business Administration student with C
 
 ### LAB
 
-[Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file
+[Lab 1](https://felice168.github.io/cit281-lab1/) --- Setup personal computer, Practice terminal commands & Keyboard shortcuts & Software tools, Create Node.js server-side JavaScript file 
+![github picture](https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png = 100x20)
 
 [Lab 2](https://felice168.github.io/cit281-lab2/) --- CLI commands, Version control, and JavaScript refresher
 
@@ -40,7 +41,7 @@ to create and use a .gitignore file & diff split screen
 
 [Project 7](https://felice168.github.io/cit281-p7/) --- Creating an initial version of my CIT Minor portfolio using GitHub Pages
 
-![github picture](https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png)
+
 
 
 ```markdown
