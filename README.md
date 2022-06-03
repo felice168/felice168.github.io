@@ -27,21 +27,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Project 1](https://felice168.github.io/cit281-p1/) --- Gain experience accessing your operating system's command line interface (CLI), working with CLI commands & Visual Studio Code (VSCode), writing and executing non-web server Node.js JavaScript code
 
-[Project 2]()
+[Project 2](https://felice168.github.io/cit281-p2/) --- 
+
+[Project 3](https://felice168.github.io/cit281-p3/) ---
+
+[Project 4](https://felice168.github.io/cit281-p4/) ---
+
+[Project 5](https://felice168.github.io/cit281-p5/) ---
+
+[Project 6](https://felice168.github.io/cit281-p6/) ---
+
+[Project 7](https://felice168.github.io/cit281-p7/) ---
 
 ```markdown
 Syntax highlighted code block
-
-   Project 3
-
-   Project 4
-
-   Project 5
    
-   Project 6
-
-   Project 7 
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
