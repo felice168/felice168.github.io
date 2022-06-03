@@ -1,4 +1,4 @@
-# Welcome to My CIT Minor Portfolio
+# Welcome to My CIT Minor Portfolio <img src="https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png" width="100">
 Hi my name is Felice Lee. Currently I'm a Business Administration student with CIT minor at the University of Oregon. This is my CIT minor portfolio, hope you enjoy!
 
 ### LAB
@@ -41,14 +41,3 @@ to create and use a .gitignore file & diff split screen
 [Project 6](https://felice168.github.io/cit281-p6/) --- Creating three classes. The first class is the Shape class that will serve as a base class for the other two classes. The second class is the Rectangle class that will inherit from Shape class. A class that inherits from another class can be called the child class of the base, or parent, class. The third class is the Triangle class that also will inherit from the Shape class. The base Shape class will provide the common functionality of a method that returns the perimeter value. Each of the other two classes will provide their own versions of a method that returns the area value. 
 
 [Project 7](https://felice168.github.io/cit281-p7/) --- Creating an initial version of my CIT Minor portfolio using GitHub Pages
-
-
-
-
-```markdown
-Syntax highlighted code block
-   
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
