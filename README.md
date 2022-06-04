@@ -1,4 +1,7 @@
-# Welcome to My CIT Minor Portfolio <img src="https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png" width="80">
+# Welcome to My CIT Minor Portfolio 
+
+<img src="https://user-images.githubusercontent.com/105137247/171943133-4aaa475e-db9c-4c4f-ae8b-1334bd8509a5.png" width="80">
+
 Hi my name is Felice Lee. Currently I'm a Business Administration student with CIT minor at the University of Oregon. This is my CIT minor portfolio, hope you enjoy!
 
 ## LAB
